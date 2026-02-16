@@ -5,3 +5,5 @@ This is a simple HTML, CSS, and JavaScript project.
 ## Features
 - Simple design
 - Easy to understand
+## Author
+Shadin
