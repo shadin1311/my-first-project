@@ -7,3 +7,6 @@ This is a simple HTML, CSS, and JavaScript project.
 - Easy to understand
 ## Author
 Shadin
+## Future Plan
+- Improve design
+- Add more features
