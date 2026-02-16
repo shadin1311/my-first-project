@@ -12,3 +12,4 @@ Shadin
 - Add more features
 Project started on February 2026.
 This project is for learning GitHub commits.
+Happy coding!
